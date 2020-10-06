@@ -96,6 +96,10 @@ class Animal {
 let lion = new Animal('RAAAAAA');
 lion.greet()
 
+//Union
+let confused: string | number = 5
+
+
 
 
 
